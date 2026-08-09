@@ -1,0 +1,91 @@
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+
+[Done] exited with code=0 in 3.366 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+
+[Done] exited with code=0 in 0.363 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+3
+
+[Done] exited with code=0 in 0.422 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+True
+
+[Done] exited with code=0 in 0.29 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+10
+
+[Done] exited with code=0 in 1.146 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+2.5
+
+[Done] exited with code=0 in 0.426 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+2
+
+[Done] exited with code=0 in 0.5 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+1
+
+[Done] exited with code=0 in 0.444 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+25
+
+[Done] exited with code=0 in 0.365 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+the instructor is (instructor_name), there are(students_counts)students, in the(python class)class!
+
+[Done] exited with code=0 in 0.478 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+the instructor is(instructor_name), there are(students_counts)students, in the(python class)class!
+
+[Done] exited with code=0 in 0.456 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+the instructor is(instructor_name), there are(students_counts)students, in the(python class)class!
+
+[Done] exited with code=0 in 0.391 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+the instructor isAlex, there are(students_counts)students, in the(python class)class!
+
+[Done] exited with code=0 in 0.364 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+the instructor is Alex, there are 30student, in thePython classe!
+
+[Done] exited with code=0 in 0.384 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+the instructor is Alex, there are 30student, in thePython classe!
+
+[Done] exited with code=0 in 0.419 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+Traceback (most recent call last):
+  File "c:\Users\pc\Desktop\med_python\script.py", line 3, in <module>
+    total_price = (somme(apple_price * apple_count))
+                   ^^^^^
+NameError: name 'somme' is not defined
+
+[Done] exited with code=1 in 0.566 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+
+[Done] exited with code=0 in 0.334 seconds
+
+[Running] python -u "c:\Users\pc\Desktop\med_python\script.py"
+if one apple costs 5, then 10 apples will cost 50 in total
+
+[Done] exited with code=0 in 0.398 seconds
+
